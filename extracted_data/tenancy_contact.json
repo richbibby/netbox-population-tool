@@ -1,9 +1,6 @@
 [
   {
     "id": 3,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/tenancy/contacts/3/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/tenancy/contacts/3/",
-    "display": "Alexa",
     "group": 2,
     "name": "Alexa",
     "title": "Facilities Manager",
@@ -14,15 +11,10 @@
     "description": "",
     "comments": "",
     "tags": [],
-    "custom_fields": {},
-    "created": "2022-12-22T11:43:18.872121Z",
-    "last_updated": "2022-12-22T11:43:18.872150Z"
+    "custom_fields": {}
   },
   {
     "id": 2,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/tenancy/contacts/2/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/tenancy/contacts/2/",
-    "display": "Eric",
     "group": 1,
     "name": "Eric",
     "title": "Awesome Network Engineer",
@@ -33,15 +25,10 @@
     "description": "",
     "comments": "",
     "tags": [],
-    "custom_fields": {},
-    "created": "2022-12-22T11:42:41.871560Z",
-    "last_updated": "2022-12-22T11:42:41.871584Z"
+    "custom_fields": {}
   },
   {
     "id": 4,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/tenancy/contacts/4/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/tenancy/contacts/4/",
-    "display": "KPN NOC",
     "group": null,
     "name": "KPN NOC",
     "title": "",
@@ -52,15 +39,10 @@
     "description": "",
     "comments": "",
     "tags": [],
-    "custom_fields": {},
-    "created": "2023-03-23T14:42:10.800556Z",
-    "last_updated": "2023-08-07T10:11:59.926143Z"
+    "custom_fields": {}
   },
   {
     "id": 1,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/tenancy/contacts/1/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/tenancy/contacts/1/",
-    "display": "Susan",
     "group": 1,
     "name": "Susan",
     "title": "Awesome Network Engineer",
@@ -71,8 +53,6 @@
     "description": "",
     "comments": "",
     "tags": [],
-    "custom_fields": {},
-    "created": "2022-12-22T11:42:22.909142Z",
-    "last_updated": "2022-12-22T11:42:22.909167Z"
+    "custom_fields": {}
   }
 ]

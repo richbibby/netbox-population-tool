@@ -1,9 +1,6 @@
 [
   {
     "id": 109,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/power-ports/109/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/power-ports/109/",
-    "display": "PS-1",
     "device": 141,
     "module": null,
     "name": "PS-1",
@@ -22,15 +19,10 @@
     "connected_endpoints_reachable": null,
     "tags": [],
     "custom_fields": {},
-    "created": "2023-08-09T10:00:52.541607Z",
-    "last_updated": "2023-08-09T10:00:52.541630Z",
     "_occupied": false
   },
   {
     "id": 110,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/power-ports/110/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/power-ports/110/",
-    "display": "PS-2",
     "device": 141,
     "module": null,
     "name": "PS-2",
@@ -49,15 +41,10 @@
     "connected_endpoints_reachable": null,
     "tags": [],
     "custom_fields": {},
-    "created": "2023-08-09T10:00:52.541731Z",
-    "last_updated": "2023-08-09T10:00:52.541739Z",
     "_occupied": false
   },
   {
     "id": 264,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/power-ports/264/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/power-ports/264/",
-    "display": "PSU0",
     "device": 298,
     "module": null,
     "name": "PSU0",
@@ -76,15 +63,10 @@
     "connected_endpoints_reachable": null,
     "tags": [],
     "custom_fields": {},
-    "created": "2024-08-28T09:15:46.015070Z",
-    "last_updated": "2024-08-28T09:15:46.015091Z",
     "_occupied": false
   },
   {
     "id": 265,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/power-ports/265/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/power-ports/265/",
-    "display": "PSU1",
     "device": 298,
     "module": null,
     "name": "PSU1",
@@ -103,15 +85,10 @@
     "connected_endpoints_reachable": null,
     "tags": [],
     "custom_fields": {},
-    "created": "2024-08-28T09:15:46.015167Z",
-    "last_updated": "2024-08-28T09:15:46.015176Z",
     "_occupied": false
   },
   {
     "id": 4,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/power-ports/4/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/power-ports/4/",
-    "display": "ps1",
     "device": 4,
     "module": null,
     "name": "ps1",
@@ -134,15 +111,10 @@
     "connected_endpoints_reachable": true,
     "tags": [],
     "custom_fields": {},
-    "created": "2022-12-22T12:08:11.506375Z",
-    "last_updated": "2023-08-07T10:17:43.962847Z",
     "_occupied": true
   },
   {
     "id": 9,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/power-ports/9/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/power-ports/9/",
-    "display": "Power Port 1",
     "device": 9,
     "module": null,
     "name": "Power Port 1",
@@ -165,15 +137,10 @@
     "connected_endpoints_reachable": true,
     "tags": [],
     "custom_fields": {},
-    "created": "2022-12-22T15:09:06.377924Z",
-    "last_updated": "2022-12-22T15:09:06.377962Z",
     "_occupied": true
   },
   {
     "id": 10,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/power-ports/10/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/power-ports/10/",
-    "display": "Power Port 1",
     "device": 10,
     "module": null,
     "name": "Power Port 1",
@@ -196,15 +163,10 @@
     "connected_endpoints_reachable": true,
     "tags": [],
     "custom_fields": {},
-    "created": "2022-12-22T15:09:06.563557Z",
-    "last_updated": "2022-12-22T15:09:06.563590Z",
     "_occupied": true
   },
   {
     "id": 1,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/power-ports/1/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/power-ports/1/",
-    "display": "PSU0",
     "device": 1,
     "module": null,
     "name": "PSU0",
@@ -227,15 +189,10 @@
     "connected_endpoints_reachable": true,
     "tags": [],
     "custom_fields": {},
-    "created": "2022-12-22T12:08:10.954754Z",
-    "last_updated": "2023-08-07T10:19:19.508695Z",
     "_occupied": true
   },
   {
     "id": 2,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/power-ports/2/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/power-ports/2/",
-    "display": "PSU0",
     "device": 2,
     "module": null,
     "name": "PSU0",
@@ -258,15 +215,10 @@
     "connected_endpoints_reachable": true,
     "tags": [],
     "custom_fields": {},
-    "created": "2022-12-22T12:08:11.026666Z",
-    "last_updated": "2023-08-07T10:19:39.760567Z",
     "_occupied": true
   },
   {
     "id": 3,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/power-ports/3/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/power-ports/3/",
-    "display": "PSU1",
     "device": 2,
     "module": null,
     "name": "PSU1",
@@ -289,15 +241,10 @@
     "connected_endpoints_reachable": true,
     "tags": [],
     "custom_fields": {},
-    "created": "2022-12-22T12:08:11.026838Z",
-    "last_updated": "2023-08-07T10:19:39.809819Z",
     "_occupied": true
   },
   {
     "id": 779,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/power-ports/779/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/power-ports/779/",
-    "display": "PSU0",
     "device": 778,
     "module": null,
     "name": "PSU0",
@@ -320,15 +267,10 @@
     "connected_endpoints_reachable": true,
     "tags": [],
     "custom_fields": {},
-    "created": "2026-01-27T16:26:21.452590Z",
-    "last_updated": "2026-01-27T16:27:14.354069Z",
     "_occupied": true
   },
   {
     "id": 780,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/power-ports/780/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/power-ports/780/",
-    "display": "PSU1",
     "device": 778,
     "module": null,
     "name": "PSU1",
@@ -347,15 +289,10 @@
     "connected_endpoints_reachable": null,
     "tags": [],
     "custom_fields": {},
-    "created": "2026-01-27T16:26:21.452646Z",
-    "last_updated": "2026-01-27T16:26:21.452651Z",
     "_occupied": false
   },
   {
     "id": 5,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/power-ports/5/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/power-ports/5/",
-    "display": "PSU1",
     "device": 7,
     "module": null,
     "name": "PSU1",
@@ -378,15 +315,10 @@
     "connected_endpoints_reachable": true,
     "tags": [],
     "custom_fields": {},
-    "created": "2022-12-22T13:48:05.827504Z",
-    "last_updated": "2023-08-07T10:20:09.941236Z",
     "_occupied": true
   },
   {
     "id": 6,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/power-ports/6/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/power-ports/6/",
-    "display": "PSU2",
     "device": 7,
     "module": null,
     "name": "PSU2",
@@ -409,15 +341,10 @@
     "connected_endpoints_reachable": true,
     "tags": [],
     "custom_fields": {},
-    "created": "2022-12-22T13:48:05.827628Z",
-    "last_updated": "2023-08-07T10:20:09.988830Z",
     "_occupied": true
   },
   {
     "id": 7,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/power-ports/7/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/power-ports/7/",
-    "display": "PSU1",
     "device": 8,
     "module": null,
     "name": "PSU1",
@@ -440,15 +367,10 @@
     "connected_endpoints_reachable": true,
     "tags": [],
     "custom_fields": {},
-    "created": "2022-12-22T13:48:05.923786Z",
-    "last_updated": "2023-08-07T10:20:30.611739Z",
     "_occupied": true
   },
   {
     "id": 8,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/power-ports/8/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/power-ports/8/",
-    "display": "PSU2",
     "device": 8,
     "module": null,
     "name": "PSU2",
@@ -471,15 +393,10 @@
     "connected_endpoints_reachable": true,
     "tags": [],
     "custom_fields": {},
-    "created": "2022-12-22T13:48:05.923922Z",
-    "last_updated": "2023-08-07T10:20:30.658176Z",
     "_occupied": true
   },
   {
     "id": 574,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/power-ports/574/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/power-ports/574/",
-    "display": "PSU0",
     "device": 566,
     "module": null,
     "name": "PSU0",
@@ -498,15 +415,10 @@
     "connected_endpoints_reachable": null,
     "tags": [],
     "custom_fields": {},
-    "created": "2025-08-22T15:20:22.976642Z",
-    "last_updated": "2025-08-22T15:20:22.976654Z",
     "_occupied": false
   },
   {
     "id": 575,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/power-ports/575/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/power-ports/575/",
-    "display": "PSU1",
     "device": 566,
     "module": null,
     "name": "PSU1",
@@ -525,8 +437,6 @@
     "connected_endpoints_reachable": null,
     "tags": [],
     "custom_fields": {},
-    "created": "2025-08-22T15:20:22.976704Z",
-    "last_updated": "2025-08-22T15:20:22.976709Z",
     "_occupied": false
   }
 ]

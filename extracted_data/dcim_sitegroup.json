@@ -1,33 +1,23 @@
 [
   {
     "id": 1,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/site-groups/1/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/site-groups/1/",
-    "display": "Branch",
     "name": "Branch",
     "slug": "branch",
     "parent": null,
     "description": "TLE Branch Sites",
     "tags": [],
     "custom_fields": {},
-    "created": "2022-12-22T11:29:07.508467Z",
-    "last_updated": "2022-12-22T11:29:07.508497Z",
     "site_count": 4,
     "_depth": 0
   },
   {
     "id": 2,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/site-groups/2/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/site-groups/2/",
-    "display": "Corporate",
     "name": "Corporate",
     "slug": "corporate",
     "parent": null,
     "description": "TLE Corporate Sites",
     "tags": [],
     "custom_fields": {},
-    "created": "2022-12-22T11:29:24.756300Z",
-    "last_updated": "2022-12-22T11:29:24.756322Z",
     "site_count": 1,
     "_depth": 0
   }

@@ -1,9 +1,6 @@
 [
   {
     "id": 119,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/console-ports/119/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/console-ports/119/",
-    "display": "Console",
     "device": 141,
     "module": null,
     "name": "Console",
@@ -21,15 +18,10 @@
     "connected_endpoints_reachable": null,
     "tags": [],
     "custom_fields": {},
-    "created": "2023-08-09T10:00:52.470396Z",
-    "last_updated": "2023-08-09T10:00:52.470417Z",
     "_occupied": false
   },
   {
     "id": 120,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/console-ports/120/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/console-ports/120/",
-    "display": "usb",
     "device": 141,
     "module": null,
     "name": "usb",
@@ -47,15 +39,10 @@
     "connected_endpoints_reachable": null,
     "tags": [],
     "custom_fields": {},
-    "created": "2023-08-09T10:00:52.470513Z",
-    "last_updated": "2023-08-09T10:00:52.470521Z",
     "_occupied": false
   },
   {
     "id": 284,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/console-ports/284/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/console-ports/284/",
-    "display": "Console",
     "device": 298,
     "module": null,
     "name": "Console",
@@ -73,15 +60,10 @@
     "connected_endpoints_reachable": null,
     "tags": [],
     "custom_fields": {},
-    "created": "2024-08-28T09:15:45.969927Z",
-    "last_updated": "2024-08-28T09:15:45.969950Z",
     "_occupied": false
   },
   {
     "id": 285,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/console-ports/285/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/console-ports/285/",
-    "display": "Console (USB)",
     "device": 298,
     "module": null,
     "name": "Console (USB)",
@@ -99,15 +81,10 @@
     "connected_endpoints_reachable": null,
     "tags": [],
     "custom_fields": {},
-    "created": "2024-08-28T09:15:45.970022Z",
-    "last_updated": "2024-08-28T09:15:45.970029Z",
     "_occupied": false
   },
   {
     "id": 5,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/console-ports/5/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/console-ports/5/",
-    "display": "Console",
     "device": 4,
     "module": null,
     "name": "Console",
@@ -125,15 +102,10 @@
     "connected_endpoints_reachable": null,
     "tags": [],
     "custom_fields": {},
-    "created": "2022-12-22T12:08:11.491421Z",
-    "last_updated": "2022-12-22T12:08:11.491453Z",
     "_occupied": false
   },
   {
     "id": 10,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/console-ports/10/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/console-ports/10/",
-    "display": "Serial",
     "device": 9,
     "module": null,
     "name": "Serial",
@@ -151,15 +123,10 @@
     "connected_endpoints_reachable": null,
     "tags": [],
     "custom_fields": {},
-    "created": "2022-12-22T15:09:06.366598Z",
-    "last_updated": "2022-12-22T15:09:06.366635Z",
     "_occupied": false
   },
   {
     "id": 11,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/console-ports/11/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/console-ports/11/",
-    "display": "Serial",
     "device": 10,
     "module": null,
     "name": "Serial",
@@ -177,15 +144,10 @@
     "connected_endpoints_reachable": null,
     "tags": [],
     "custom_fields": {},
-    "created": "2022-12-22T15:09:06.555422Z",
-    "last_updated": "2022-12-22T15:09:06.555452Z",
     "_occupied": false
   },
   {
     "id": 1,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/console-ports/1/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/console-ports/1/",
-    "display": "con 0",
     "device": 1,
     "module": null,
     "name": "con 0",
@@ -207,15 +169,10 @@
     "connected_endpoints_reachable": true,
     "tags": [],
     "custom_fields": {},
-    "created": "2022-12-22T12:08:10.946236Z",
-    "last_updated": "2022-12-22T12:08:10.946265Z",
     "_occupied": true
   },
   {
     "id": 2,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/console-ports/2/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/console-ports/2/",
-    "display": "usb",
     "device": 1,
     "module": null,
     "name": "usb",
@@ -233,15 +190,10 @@
     "connected_endpoints_reachable": null,
     "tags": [],
     "custom_fields": {},
-    "created": "2022-12-22T12:08:10.946368Z",
-    "last_updated": "2022-12-22T12:08:10.946374Z",
     "_occupied": false
   },
   {
     "id": 3,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/console-ports/3/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/console-ports/3/",
-    "display": "Console",
     "device": 2,
     "module": null,
     "name": "Console",
@@ -263,15 +215,10 @@
     "connected_endpoints_reachable": true,
     "tags": [],
     "custom_fields": {},
-    "created": "2022-12-22T12:08:11.017794Z",
-    "last_updated": "2022-12-22T12:08:11.017822Z",
     "_occupied": true
   },
   {
     "id": 4,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/console-ports/4/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/console-ports/4/",
-    "display": "Console (USB)",
     "device": 2,
     "module": null,
     "name": "Console (USB)",
@@ -289,15 +236,10 @@
     "connected_endpoints_reachable": null,
     "tags": [],
     "custom_fields": {},
-    "created": "2022-12-22T12:08:11.017950Z",
-    "last_updated": "2022-12-22T12:08:11.017958Z",
     "_occupied": false
   },
   {
     "id": 828,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/console-ports/828/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/console-ports/828/",
-    "display": "Console",
     "device": 778,
     "module": null,
     "name": "Console",
@@ -319,15 +261,10 @@
     "connected_endpoints_reachable": true,
     "tags": [],
     "custom_fields": {},
-    "created": "2026-01-27T16:26:21.387194Z",
-    "last_updated": "2026-01-27T16:27:54.178468Z",
     "_occupied": true
   },
   {
     "id": 829,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/console-ports/829/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/console-ports/829/",
-    "display": "Console (USB)",
     "device": 778,
     "module": null,
     "name": "Console (USB)",
@@ -345,15 +282,10 @@
     "connected_endpoints_reachable": null,
     "tags": [],
     "custom_fields": {},
-    "created": "2026-01-27T16:26:21.387259Z",
-    "last_updated": "2026-01-27T16:26:21.387265Z",
     "_occupied": false
   },
   {
     "id": 6,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/console-ports/6/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/console-ports/6/",
-    "display": "Serial",
     "device": 7,
     "module": null,
     "name": "Serial",
@@ -371,15 +303,10 @@
     "connected_endpoints_reachable": null,
     "tags": [],
     "custom_fields": {},
-    "created": "2022-12-22T13:48:05.820041Z",
-    "last_updated": "2022-12-22T13:48:05.820071Z",
     "_occupied": false
   },
   {
     "id": 7,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/console-ports/7/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/console-ports/7/",
-    "display": "VGA",
     "device": 7,
     "module": null,
     "name": "VGA",
@@ -397,15 +324,10 @@
     "connected_endpoints_reachable": null,
     "tags": [],
     "custom_fields": {},
-    "created": "2022-12-22T13:48:05.820210Z",
-    "last_updated": "2022-12-22T13:48:05.820219Z",
     "_occupied": false
   },
   {
     "id": 8,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/console-ports/8/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/console-ports/8/",
-    "display": "Serial",
     "device": 8,
     "module": null,
     "name": "Serial",
@@ -423,15 +345,10 @@
     "connected_endpoints_reachable": null,
     "tags": [],
     "custom_fields": {},
-    "created": "2022-12-22T13:48:05.916502Z",
-    "last_updated": "2022-12-22T13:48:05.916526Z",
     "_occupied": false
   },
   {
     "id": 9,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/console-ports/9/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/console-ports/9/",
-    "display": "VGA",
     "device": 8,
     "module": null,
     "name": "VGA",
@@ -449,15 +366,10 @@
     "connected_endpoints_reachable": null,
     "tags": [],
     "custom_fields": {},
-    "created": "2022-12-22T13:48:05.916635Z",
-    "last_updated": "2022-12-22T13:48:05.916640Z",
     "_occupied": false
   },
   {
     "id": 592,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/console-ports/592/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/console-ports/592/",
-    "display": "Console",
     "device": 566,
     "module": null,
     "name": "Console",
@@ -475,15 +387,10 @@
     "connected_endpoints_reachable": null,
     "tags": [],
     "custom_fields": {},
-    "created": "2025-08-22T15:20:22.935477Z",
-    "last_updated": "2025-08-22T15:20:22.935490Z",
     "_occupied": false
   },
   {
     "id": 593,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/console-ports/593/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/console-ports/593/",
-    "display": "Console (USB)",
     "device": 566,
     "module": null,
     "name": "Console (USB)",
@@ -501,8 +408,6 @@
     "connected_endpoints_reachable": null,
     "tags": [],
     "custom_fields": {},
-    "created": "2025-08-22T15:20:22.935539Z",
-    "last_updated": "2025-08-22T15:20:22.935543Z",
     "_occupied": false
   }
 ]

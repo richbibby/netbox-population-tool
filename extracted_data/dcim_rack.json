@@ -1,9 +1,6 @@
 [
   {
     "id": 1,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/racks/1/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/racks/1/",
-    "display": "NLAMS01-RK-01",
     "name": "NLAMS01-RK-01",
     "facility_id": null,
     "site": 1,
@@ -31,16 +28,11 @@
     "comments": "",
     "tags": [],
     "custom_fields": {},
-    "created": "2022-12-22T11:35:17.216899Z",
-    "last_updated": "2023-07-27T11:02:05.777195Z",
     "device_count": 9,
     "powerfeed_count": 2
   },
   {
     "id": 250,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/racks/250/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/racks/250/",
-    "display": "USCHG-RK-1",
     "name": "USCHG-RK-1",
     "facility_id": null,
     "site": 11,
@@ -68,16 +60,11 @@
     "comments": "",
     "tags": [],
     "custom_fields": {},
-    "created": "2025-08-22T14:28:28.068216Z",
-    "last_updated": "2025-08-22T14:28:28.068228Z",
     "device_count": 2,
     "powerfeed_count": 0
   },
   {
     "id": 251,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/racks/251/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/racks/251/",
-    "display": "USCHG-RK-2",
     "name": "USCHG-RK-2",
     "facility_id": null,
     "site": 11,
@@ -105,16 +92,11 @@
     "comments": "",
     "tags": [],
     "custom_fields": {},
-    "created": "2025-08-22T14:28:54.731519Z",
-    "last_updated": "2025-08-22T14:28:54.731533Z",
     "device_count": 0,
     "powerfeed_count": 0
   },
   {
     "id": 252,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/racks/252/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/racks/252/",
-    "display": "USCHG-RK-3",
     "name": "USCHG-RK-3",
     "facility_id": null,
     "site": 11,
@@ -142,16 +124,11 @@
     "comments": "",
     "tags": [],
     "custom_fields": {},
-    "created": "2025-08-22T14:29:36.675820Z",
-    "last_updated": "2025-08-22T14:29:36.675833Z",
     "device_count": 0,
     "powerfeed_count": 0
   },
   {
     "id": 253,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/racks/253/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/racks/253/",
-    "display": "USCHG-RK-4",
     "name": "USCHG-RK-4",
     "facility_id": null,
     "site": 11,
@@ -179,16 +156,11 @@
     "comments": "",
     "tags": [],
     "custom_fields": {},
-    "created": "2025-08-22T14:38:59.510360Z",
-    "last_updated": "2025-08-22T14:38:59.510372Z",
     "device_count": 0,
     "powerfeed_count": 0
   },
   {
     "id": 254,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/racks/254/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/racks/254/",
-    "display": "USCHG-RK-5",
     "name": "USCHG-RK-5",
     "facility_id": null,
     "site": 11,
@@ -216,16 +188,11 @@
     "comments": "",
     "tags": [],
     "custom_fields": {},
-    "created": "2025-08-22T14:39:08.746460Z",
-    "last_updated": "2025-08-22T14:39:08.746473Z",
     "device_count": 0,
     "powerfeed_count": 0
   },
   {
     "id": 415,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/racks/415/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/racks/415/",
-    "display": "POLIS01-RK-01",
     "name": "POLIS01-RK-01",
     "facility_id": null,
     "site": 515,
@@ -253,16 +220,11 @@
     "comments": "",
     "tags": [],
     "custom_fields": {},
-    "created": "2026-01-27T16:54:33.907000Z",
-    "last_updated": null,
     "device_count": 0,
     "powerfeed_count": 0
   },
   {
     "id": 19,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/racks/19/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/racks/19/",
-    "display": "AUSYD01-RK-01",
     "name": "AUSYD01-RK-01",
     "facility_id": null,
     "site": 5,
@@ -290,8 +252,6 @@
     "comments": "",
     "tags": [],
     "custom_fields": {},
-    "created": "2023-08-09T09:58:40.482704Z",
-    "last_updated": "2023-08-09T09:59:57.066417Z",
     "device_count": 2,
     "powerfeed_count": 0
   }

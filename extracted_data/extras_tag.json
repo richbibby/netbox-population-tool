@@ -1,44 +1,29 @@
 [
   {
     "id": 36,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/extras/tags/36/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/extras/tags/36/",
-    "display": "consulting",
     "name": "consulting",
     "slug": "consulting",
     "color": "ffc107",
     "description": "",
     "object_types": [],
-    "tagged_items": 1,
-    "created": "2024-02-26T20:14:37.635470Z",
-    "last_updated": "2024-02-26T20:14:37.635487Z"
+    "tagged_items": 1
   },
   {
     "id": 37,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/extras/tags/37/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/extras/tags/37/",
-    "display": "europe",
     "name": "europe",
     "slug": "europe",
     "color": "8bc34a",
     "description": "",
     "object_types": [],
-    "tagged_items": 1,
-    "created": "2024-02-26T20:14:51.150144Z",
-    "last_updated": "2024-02-26T20:14:51.150158Z"
+    "tagged_items": 1
   },
   {
     "id": 3,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/extras/tags/3/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/extras/tags/3/",
-    "display": "Foxtrot",
     "name": "Foxtrot",
     "slug": "foxtrot",
     "color": "9c27b0",
     "description": "",
     "object_types": [],
-    "tagged_items": 0,
-    "created": "2023-08-31T19:49:13.373299Z",
-    "last_updated": "2023-08-31T19:49:13.373318Z"
+    "tagged_items": 0
   }
 ]

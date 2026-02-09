@@ -1,17 +1,12 @@
 [
   {
     "id": 1,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/wireless/wireless-lan-groups/1/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/wireless/wireless-lan-groups/1/",
-    "display": "Europe_WLANs",
     "name": "Europe_WLANs",
     "slug": "europe_wlans",
     "parent": null,
     "description": "Europe Wireless Networks",
     "tags": [],
     "custom_fields": {},
-    "created": "2022-12-22T13:37:43.578173Z",
-    "last_updated": "2023-08-07T10:09:12.710944Z",
     "wirelesslan_count": 2,
     "_depth": 0
   }

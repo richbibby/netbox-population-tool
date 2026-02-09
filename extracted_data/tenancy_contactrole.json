@@ -1,28 +1,18 @@
 [
   {
     "id": 2,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/tenancy/contact-roles/2/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/tenancy/contact-roles/2/",
-    "display": "Emergency",
     "name": "Emergency",
     "slug": "emergency",
     "description": "",
     "tags": [],
-    "custom_fields": {},
-    "created": "2022-12-22T11:40:10.689142Z",
-    "last_updated": "2022-12-22T11:40:10.689172Z"
+    "custom_fields": {}
   },
   {
     "id": 1,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/tenancy/contact-roles/1/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/tenancy/contact-roles/1/",
-    "display": "Operations",
     "name": "Operations",
     "slug": "operations",
     "description": "",
     "tags": [],
-    "custom_fields": {},
-    "created": "2022-12-22T11:40:05.963868Z",
-    "last_updated": "2022-12-22T11:40:05.963895Z"
+    "custom_fields": {}
   }
 ]

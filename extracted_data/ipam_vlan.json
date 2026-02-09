@@ -1,9 +1,6 @@
 [
   {
     "id": 218,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/ipam/vlans/218/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/ipam/vlans/218/",
-    "display": "DATA (10)",
     "site": 1,
     "group": 80,
     "vid": 10,
@@ -16,15 +13,10 @@
     "l2vpn_termination": null,
     "tags": [],
     "custom_fields": {},
-    "created": "2024-10-10T15:39:49.189823Z",
-    "last_updated": "2024-10-10T15:39:49.189841Z",
     "prefix_count": 1
   },
   {
     "id": 219,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/ipam/vlans/219/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/ipam/vlans/219/",
-    "display": "VOICE (20)",
     "site": 1,
     "group": 80,
     "vid": 20,
@@ -37,15 +29,10 @@
     "l2vpn_termination": null,
     "tags": [],
     "custom_fields": {},
-    "created": "2024-10-10T15:39:51.572317Z",
-    "last_updated": "2024-10-10T15:39:51.572336Z",
     "prefix_count": 1
   },
   {
     "id": 220,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/ipam/vlans/220/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/ipam/vlans/220/",
-    "display": "B_WIFI (30)",
     "site": 1,
     "group": 80,
     "vid": 30,
@@ -58,15 +45,10 @@
     "l2vpn_termination": null,
     "tags": [],
     "custom_fields": {},
-    "created": "2024-10-10T15:39:53.494351Z",
-    "last_updated": "2024-10-10T15:39:53.494368Z",
     "prefix_count": 1
   },
   {
     "id": 221,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/ipam/vlans/221/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/ipam/vlans/221/",
-    "display": "G_WIFI (40)",
     "site": 1,
     "group": 80,
     "vid": 40,
@@ -79,15 +61,10 @@
     "l2vpn_termination": null,
     "tags": [],
     "custom_fields": {},
-    "created": "2024-10-10T15:39:55.410521Z",
-    "last_updated": "2024-10-10T15:39:55.410540Z",
     "prefix_count": 1
   },
   {
     "id": 222,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/ipam/vlans/222/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/ipam/vlans/222/",
-    "display": "NETMAN (50)",
     "site": 1,
     "group": 80,
     "vid": 50,
@@ -100,15 +77,10 @@
     "l2vpn_termination": null,
     "tags": [],
     "custom_fields": {},
-    "created": "2024-10-10T15:39:57.334545Z",
-    "last_updated": "2024-10-10T15:39:57.334562Z",
     "prefix_count": 1
   },
   {
     "id": 223,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/ipam/vlans/223/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/ipam/vlans/223/",
-    "display": "P2P (60)",
     "site": 1,
     "group": 80,
     "vid": 60,
@@ -121,8 +93,6 @@
     "l2vpn_termination": null,
     "tags": [],
     "custom_fields": {},
-    "created": "2024-10-10T15:39:59.252432Z",
-    "last_updated": "2024-10-10T15:39:59.252448Z",
     "prefix_count": 1
   }
 ]

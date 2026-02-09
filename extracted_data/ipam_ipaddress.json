@@ -1,9 +1,6 @@
 [
   {
     "id": 540,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/ipam/ip-addresses/540/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/ipam/ip-addresses/540/",
-    "display": "37.251.64.1/29",
     "family": 4,
     "address": "37.251.64.1/29",
     "vrf": null,
@@ -19,15 +16,10 @@
     "description": "ISP Router",
     "comments": "",
     "tags": [],
-    "custom_fields": {},
-    "created": "2024-10-15T10:09:06.906247Z",
-    "last_updated": "2024-10-15T10:09:06.906263Z"
+    "custom_fields": {}
   },
   {
     "id": 544,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/ipam/ip-addresses/544/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/ipam/ip-addresses/544/",
-    "display": "172.18.32.10/24",
     "family": 4,
     "address": "172.18.32.10/24",
     "vrf": null,
@@ -43,15 +35,10 @@
     "description": "",
     "comments": "",
     "tags": [],
-    "custom_fields": {},
-    "created": "2024-11-12T11:29:18.086952Z",
-    "last_updated": "2024-11-12T11:29:18.086965Z"
+    "custom_fields": {}
   },
   {
     "id": 528,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/ipam/ip-addresses/528/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/ipam/ip-addresses/528/",
-    "display": "192.168.0.1/25",
     "family": 4,
     "address": "192.168.0.1/25",
     "vrf": null,
@@ -67,15 +54,10 @@
     "description": "",
     "comments": "",
     "tags": [],
-    "custom_fields": {},
-    "created": "2024-10-10T15:45:05.958076Z",
-    "last_updated": "2024-10-10T15:45:05.958096Z"
+    "custom_fields": {}
   },
   {
     "id": 529,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/ipam/ip-addresses/529/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/ipam/ip-addresses/529/",
-    "display": "192.168.0.129/25",
     "family": 4,
     "address": "192.168.0.129/25",
     "vrf": null,
@@ -91,15 +73,10 @@
     "description": "",
     "comments": "",
     "tags": [],
-    "custom_fields": {},
-    "created": "2024-10-10T15:45:08.406853Z",
-    "last_updated": "2024-10-10T15:45:08.406872Z"
+    "custom_fields": {}
   },
   {
     "id": 530,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/ipam/ip-addresses/530/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/ipam/ip-addresses/530/",
-    "display": "192.168.1.1/25",
     "family": 4,
     "address": "192.168.1.1/25",
     "vrf": null,
@@ -115,15 +92,10 @@
     "description": "",
     "comments": "",
     "tags": [],
-    "custom_fields": {},
-    "created": "2024-10-10T15:45:10.835940Z",
-    "last_updated": "2024-10-10T15:45:10.835957Z"
+    "custom_fields": {}
   },
   {
     "id": 531,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/ipam/ip-addresses/531/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/ipam/ip-addresses/531/",
-    "display": "192.168.1.129/25",
     "family": 4,
     "address": "192.168.1.129/25",
     "vrf": null,
@@ -139,15 +111,10 @@
     "description": "",
     "comments": "",
     "tags": [],
-    "custom_fields": {},
-    "created": "2024-10-10T15:45:13.291411Z",
-    "last_updated": "2024-10-10T15:45:13.291429Z"
+    "custom_fields": {}
   },
   {
     "id": 526,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/ipam/ip-addresses/526/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/ipam/ip-addresses/526/",
-    "display": "192.168.2.1/26",
     "family": 4,
     "address": "192.168.2.1/26",
     "vrf": null,
@@ -163,15 +130,10 @@
     "description": "",
     "comments": "",
     "tags": [],
-    "custom_fields": {},
-    "created": "2024-10-10T15:45:00.526502Z",
-    "last_updated": "2024-10-15T10:01:30.965700Z"
+    "custom_fields": {}
   },
   {
     "id": 532,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/ipam/ip-addresses/532/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/ipam/ip-addresses/532/",
-    "display": "192.168.2.2/26",
     "family": 4,
     "address": "192.168.2.2/26",
     "vrf": null,
@@ -187,15 +149,10 @@
     "description": "",
     "comments": "",
     "tags": [],
-    "custom_fields": {},
-    "created": "2024-10-10T15:45:16.181887Z",
-    "last_updated": "2024-10-10T15:45:16.181905Z"
+    "custom_fields": {}
   },
   {
     "id": 533,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/ipam/ip-addresses/533/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/ipam/ip-addresses/533/",
-    "display": "192.168.2.3/26",
     "family": 4,
     "address": "192.168.2.3/26",
     "vrf": null,
@@ -211,15 +168,10 @@
     "description": "",
     "comments": "",
     "tags": [],
-    "custom_fields": {},
-    "created": "2024-10-10T15:45:18.643852Z",
-    "last_updated": "2024-10-10T15:45:18.643869Z"
+    "custom_fields": {}
   },
   {
     "id": 535,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/ipam/ip-addresses/535/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/ipam/ip-addresses/535/",
-    "display": "192.168.2.4/26",
     "family": 4,
     "address": "192.168.2.4/26",
     "vrf": null,
@@ -235,15 +187,10 @@
     "description": "",
     "comments": "",
     "tags": [],
-    "custom_fields": {},
-    "created": "2024-10-10T15:45:23.599187Z",
-    "last_updated": "2024-10-10T15:45:23.599205Z"
+    "custom_fields": {}
   },
   {
     "id": 536,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/ipam/ip-addresses/536/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/ipam/ip-addresses/536/",
-    "display": "192.168.2.5/26",
     "family": 4,
     "address": "192.168.2.5/26",
     "vrf": null,
@@ -259,15 +206,10 @@
     "description": "",
     "comments": "",
     "tags": [],
-    "custom_fields": {},
-    "created": "2024-10-10T15:45:26.086370Z",
-    "last_updated": "2024-10-10T15:45:26.086387Z"
+    "custom_fields": {}
   },
   {
     "id": 537,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/ipam/ip-addresses/537/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/ipam/ip-addresses/537/",
-    "display": "192.168.2.6/26",
     "family": 4,
     "address": "192.168.2.6/26",
     "vrf": null,
@@ -283,15 +225,10 @@
     "description": "",
     "comments": "",
     "tags": [],
-    "custom_fields": {},
-    "created": "2024-10-10T15:45:29.005118Z",
-    "last_updated": "2024-10-10T15:45:29.005136Z"
+    "custom_fields": {}
   },
   {
     "id": 527,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/ipam/ip-addresses/527/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/ipam/ip-addresses/527/",
-    "display": "192.168.2.65/30",
     "family": 4,
     "address": "192.168.2.65/30",
     "vrf": null,
@@ -307,15 +244,10 @@
     "description": "",
     "comments": "",
     "tags": [],
-    "custom_fields": {},
-    "created": "2024-10-10T15:45:03.498271Z",
-    "last_updated": "2024-10-10T15:45:03.498289Z"
+    "custom_fields": {}
   },
   {
     "id": 534,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/ipam/ip-addresses/534/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/ipam/ip-addresses/534/",
-    "display": "192.168.2.66/30",
     "family": 4,
     "address": "192.168.2.66/30",
     "vrf": null,
@@ -331,8 +263,6 @@
     "description": "",
     "comments": "",
     "tags": [],
-    "custom_fields": {},
-    "created": "2024-10-10T15:45:21.128313Z",
-    "last_updated": "2024-10-10T15:45:21.128330Z"
+    "custom_fields": {}
   }
 ]

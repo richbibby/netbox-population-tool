@@ -1,9 +1,6 @@
 [
   {
     "id": 1,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/console-server-ports/1/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/console-server-ports/1/",
-    "display": "ttyS1",
     "device": 4,
     "module": null,
     "name": "ttyS1",
@@ -25,15 +22,10 @@
     "connected_endpoints_reachable": true,
     "tags": [],
     "custom_fields": {},
-    "created": "2022-12-22T12:08:11.497843Z",
-    "last_updated": "2022-12-22T12:08:11.497872Z",
     "_occupied": true
   },
   {
     "id": 2,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/console-server-ports/2/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/console-server-ports/2/",
-    "display": "ttyS2",
     "device": 4,
     "module": null,
     "name": "ttyS2",
@@ -55,15 +47,10 @@
     "connected_endpoints_reachable": true,
     "tags": [],
     "custom_fields": {},
-    "created": "2022-12-22T12:08:11.498008Z",
-    "last_updated": "2022-12-22T12:08:11.498017Z",
     "_occupied": true
   },
   {
     "id": 3,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/console-server-ports/3/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/console-server-ports/3/",
-    "display": "ttyS3",
     "device": 4,
     "module": null,
     "name": "ttyS3",
@@ -85,15 +72,10 @@
     "connected_endpoints_reachable": true,
     "tags": [],
     "custom_fields": {},
-    "created": "2022-12-22T12:08:11.498078Z",
-    "last_updated": "2026-01-27T16:27:54.221002Z",
     "_occupied": true
   },
   {
     "id": 4,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/console-server-ports/4/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/console-server-ports/4/",
-    "display": "ttyS4",
     "device": 4,
     "module": null,
     "name": "ttyS4",
@@ -111,15 +93,10 @@
     "connected_endpoints_reachable": null,
     "tags": [],
     "custom_fields": {},
-    "created": "2022-12-22T12:08:11.498138Z",
-    "last_updated": "2025-01-24T16:28:47.366171Z",
     "_occupied": false
   },
   {
     "id": 5,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/console-server-ports/5/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/console-server-ports/5/",
-    "display": "ttyS5",
     "device": 4,
     "module": null,
     "name": "ttyS5",
@@ -137,15 +114,10 @@
     "connected_endpoints_reachable": null,
     "tags": [],
     "custom_fields": {},
-    "created": "2022-12-22T12:08:11.498196Z",
-    "last_updated": "2022-12-22T12:08:11.498202Z",
     "_occupied": false
   },
   {
     "id": 6,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/console-server-ports/6/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/console-server-ports/6/",
-    "display": "ttyS6",
     "device": 4,
     "module": null,
     "name": "ttyS6",
@@ -163,15 +135,10 @@
     "connected_endpoints_reachable": null,
     "tags": [],
     "custom_fields": {},
-    "created": "2022-12-22T12:08:11.498253Z",
-    "last_updated": "2022-12-22T12:08:11.498260Z",
     "_occupied": false
   },
   {
     "id": 7,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/console-server-ports/7/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/console-server-ports/7/",
-    "display": "ttyS7",
     "device": 4,
     "module": null,
     "name": "ttyS7",
@@ -189,15 +156,10 @@
     "connected_endpoints_reachable": null,
     "tags": [],
     "custom_fields": {},
-    "created": "2022-12-22T12:08:11.498311Z",
-    "last_updated": "2022-12-22T12:08:11.498317Z",
     "_occupied": false
   },
   {
     "id": 8,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/console-server-ports/8/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/console-server-ports/8/",
-    "display": "ttyS8",
     "device": 4,
     "module": null,
     "name": "ttyS8",
@@ -215,15 +177,10 @@
     "connected_endpoints_reachable": null,
     "tags": [],
     "custom_fields": {},
-    "created": "2022-12-22T12:08:11.498365Z",
-    "last_updated": "2022-12-22T12:08:11.498372Z",
     "_occupied": false
   },
   {
     "id": 9,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/console-server-ports/9/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/console-server-ports/9/",
-    "display": "ttyS9",
     "device": 4,
     "module": null,
     "name": "ttyS9",
@@ -241,15 +198,10 @@
     "connected_endpoints_reachable": null,
     "tags": [],
     "custom_fields": {},
-    "created": "2022-12-22T12:08:11.498422Z",
-    "last_updated": "2022-12-22T12:08:11.498428Z",
     "_occupied": false
   },
   {
     "id": 10,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/console-server-ports/10/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/console-server-ports/10/",
-    "display": "ttyS10",
     "device": 4,
     "module": null,
     "name": "ttyS10",
@@ -267,15 +219,10 @@
     "connected_endpoints_reachable": null,
     "tags": [],
     "custom_fields": {},
-    "created": "2022-12-22T12:08:11.498479Z",
-    "last_updated": "2022-12-22T12:08:11.498485Z",
     "_occupied": false
   },
   {
     "id": 11,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/console-server-ports/11/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/console-server-ports/11/",
-    "display": "ttyS11",
     "device": 4,
     "module": null,
     "name": "ttyS11",
@@ -293,15 +240,10 @@
     "connected_endpoints_reachable": null,
     "tags": [],
     "custom_fields": {},
-    "created": "2022-12-22T12:08:11.498539Z",
-    "last_updated": "2022-12-22T12:08:11.498546Z",
     "_occupied": false
   },
   {
     "id": 12,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/console-server-ports/12/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/console-server-ports/12/",
-    "display": "ttyS12",
     "device": 4,
     "module": null,
     "name": "ttyS12",
@@ -319,15 +261,10 @@
     "connected_endpoints_reachable": null,
     "tags": [],
     "custom_fields": {},
-    "created": "2022-12-22T12:08:11.498597Z",
-    "last_updated": "2022-12-22T12:08:11.498604Z",
     "_occupied": false
   },
   {
     "id": 13,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/console-server-ports/13/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/console-server-ports/13/",
-    "display": "ttyS13",
     "device": 4,
     "module": null,
     "name": "ttyS13",
@@ -345,15 +282,10 @@
     "connected_endpoints_reachable": null,
     "tags": [],
     "custom_fields": {},
-    "created": "2022-12-22T12:08:11.498653Z",
-    "last_updated": "2022-12-22T12:08:11.498660Z",
     "_occupied": false
   },
   {
     "id": 14,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/console-server-ports/14/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/console-server-ports/14/",
-    "display": "ttyS14",
     "device": 4,
     "module": null,
     "name": "ttyS14",
@@ -371,15 +303,10 @@
     "connected_endpoints_reachable": null,
     "tags": [],
     "custom_fields": {},
-    "created": "2022-12-22T12:08:11.498707Z",
-    "last_updated": "2022-12-22T12:08:11.498714Z",
     "_occupied": false
   },
   {
     "id": 15,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/console-server-ports/15/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/console-server-ports/15/",
-    "display": "ttyS15",
     "device": 4,
     "module": null,
     "name": "ttyS15",
@@ -397,15 +324,10 @@
     "connected_endpoints_reachable": null,
     "tags": [],
     "custom_fields": {},
-    "created": "2022-12-22T12:08:11.498760Z",
-    "last_updated": "2022-12-22T12:08:11.498767Z",
     "_occupied": false
   },
   {
     "id": 16,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/console-server-ports/16/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/console-server-ports/16/",
-    "display": "ttyS16",
     "device": 4,
     "module": null,
     "name": "ttyS16",
@@ -423,8 +345,6 @@
     "connected_endpoints_reachable": null,
     "tags": [],
     "custom_fields": {},
-    "created": "2022-12-22T12:08:11.498815Z",
-    "last_updated": "2022-12-22T12:08:11.498822Z",
     "_occupied": false
   }
 ]

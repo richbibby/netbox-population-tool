@@ -1,9 +1,6 @@
 [
   {
     "id": 6,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/wireless/wireless-lans/6/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/wireless/wireless-lans/6/",
-    "display": "BRANCH",
     "ssid": "BRANCH",
     "description": "",
     "group": 1,
@@ -15,15 +12,10 @@
     "auth_psk": "abc123",
     "comments": "",
     "tags": [],
-    "custom_fields": {},
-    "created": "2024-10-15T09:59:42.134716Z",
-    "last_updated": "2024-10-15T09:59:42.134734Z"
+    "custom_fields": {}
   },
   {
     "id": 5,
-    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/wireless/wireless-lans/5/",
-    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/wireless/wireless-lans/5/",
-    "display": "GUEST",
     "ssid": "GUEST",
     "description": "",
     "group": 1,
@@ -35,8 +27,6 @@
     "auth_psk": "Sup3r5ecretK3y!",
     "comments": "",
     "tags": [],
-    "custom_fields": {},
-    "created": "2024-10-15T09:59:03.864267Z",
-    "last_updated": "2024-10-15T09:59:03.864284Z"
+    "custom_fields": {}
   }
 ]
