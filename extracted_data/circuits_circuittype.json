@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/circuits/circuit-types/1/",
+    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/circuits/circuit-types/1/",
+    "display": "Internet Access",
+    "name": "Internet Access",
+    "slug": "internet-access",
+    "color": "",
+    "description": "Direct Internet Access Circuit",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-12-22T15:09:58.648434Z",
+    "last_updated": "2022-12-22T15:09:58.648458Z",
+    "circuit_count": 1
+  }
+]

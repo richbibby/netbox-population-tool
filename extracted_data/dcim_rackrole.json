@@ -1,0 +1,47 @@
+[
+  {
+    "id": 2,
+    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/rack-roles/2/",
+    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/rack-roles/2/",
+    "display": "Compute",
+    "name": "Compute",
+    "slug": "compute",
+    "color": "ffc107",
+    "description": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-12-22T11:33:48.890662Z",
+    "last_updated": "2022-12-22T11:33:48.890695Z",
+    "rack_count": 0
+  },
+  {
+    "id": 1,
+    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/rack-roles/1/",
+    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/rack-roles/1/",
+    "display": "Infrastructure",
+    "name": "Infrastructure",
+    "slug": "infrastructure",
+    "color": "9e9e9e",
+    "description": "Infrastructure",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-12-22T11:33:34.652382Z",
+    "last_updated": "2022-12-22T11:33:34.652405Z",
+    "rack_count": 5
+  },
+  {
+    "id": 3,
+    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/rack-roles/3/",
+    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/rack-roles/3/",
+    "display": "Storage",
+    "name": "Storage",
+    "slug": "storage",
+    "color": "795548",
+    "description": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-12-22T11:34:10.582035Z",
+    "last_updated": "2022-12-22T11:34:10.582059Z",
+    "rack_count": 2
+  }
+]

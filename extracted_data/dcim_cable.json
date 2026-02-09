@@ -1,0 +1,1304 @@
+[
+  {
+    "id": 1,
+    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/cables/1/",
+    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/cables/1/",
+    "display": "#1",
+    "type": "cat6",
+    "a_terminations": [
+      {
+        "object_id": 3,
+        "object_type": "dcim.interface"
+      }
+    ],
+    "b_terminations": [
+      {
+        "object_id": 51,
+        "object_type": "dcim.interface"
+      }
+    ],
+    "status": "connected",
+    "tenant": 5,
+    "label": "",
+    "color": "ff0000",
+    "length": 0.5,
+    "length_unit": "m",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-12-22T13:14:29.595847Z",
+    "last_updated": "2023-08-31T20:51:36.834809Z"
+  },
+  {
+    "id": 2,
+    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/cables/2/",
+    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/cables/2/",
+    "display": "#2",
+    "type": "cat6",
+    "a_terminations": [
+      {
+        "object_id": 1,
+        "object_type": "dcim.interface"
+      }
+    ],
+    "b_terminations": [
+      {
+        "object_id": 4,
+        "object_type": "dcim.interface"
+      }
+    ],
+    "status": "connected",
+    "tenant": 5,
+    "label": "",
+    "color": "ff0000",
+    "length": 0.5,
+    "length_unit": "m",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-12-22T13:14:29.700682Z",
+    "last_updated": "2023-07-27T10:26:46.197008Z"
+  },
+  {
+    "id": 3,
+    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/cables/3/",
+    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/cables/3/",
+    "display": "#3",
+    "type": "cat6",
+    "a_terminations": [
+      {
+        "object_id": 57,
+        "object_type": "dcim.interface"
+      }
+    ],
+    "b_terminations": [
+      {
+        "object_id": 50,
+        "object_type": "dcim.interface"
+      }
+    ],
+    "status": "connected",
+    "tenant": 5,
+    "label": "",
+    "color": "ff0000",
+    "length": 0.5,
+    "length_unit": "m",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-12-22T13:14:29.797787Z",
+    "last_updated": "2023-07-27T10:26:46.281454Z"
+  },
+  {
+    "id": 4,
+    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/cables/4/",
+    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/cables/4/",
+    "display": "#4",
+    "type": "cat6",
+    "a_terminations": [
+      {
+        "object_id": 1,
+        "object_type": "dcim.consoleport"
+      }
+    ],
+    "b_terminations": [
+      {
+        "object_id": 1,
+        "object_type": "dcim.consoleserverport"
+      }
+    ],
+    "status": "connected",
+    "tenant": 5,
+    "label": "",
+    "color": "4287f5",
+    "length": 1.0,
+    "length_unit": "m",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-12-22T13:14:29.909332Z",
+    "last_updated": "2023-07-27T10:26:46.365990Z"
+  },
+  {
+    "id": 5,
+    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/cables/5/",
+    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/cables/5/",
+    "display": "#5",
+    "type": "cat6",
+    "a_terminations": [
+      {
+        "object_id": 3,
+        "object_type": "dcim.consoleport"
+      }
+    ],
+    "b_terminations": [
+      {
+        "object_id": 2,
+        "object_type": "dcim.consoleserverport"
+      }
+    ],
+    "status": "connected",
+    "tenant": 5,
+    "label": "",
+    "color": "4287f5",
+    "length": 1.0,
+    "length_unit": "m",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-12-22T13:14:30.021382Z",
+    "last_updated": "2023-07-27T10:26:46.469522Z"
+  },
+  {
+    "id": 6,
+    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/cables/6/",
+    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/cables/6/",
+    "display": "#6",
+    "type": "cat6",
+    "a_terminations": [
+      {
+        "object_id": 14,
+        "object_type": "dcim.interface"
+      }
+    ],
+    "b_terminations": [
+      {
+        "object_id": 1,
+        "object_type": "dcim.frontport"
+      }
+    ],
+    "status": "connected",
+    "tenant": 5,
+    "label": "",
+    "color": "ce42f5",
+    "length": 0.5,
+    "length_unit": "m",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-12-22T13:14:30.128581Z",
+    "last_updated": "2023-07-27T10:26:46.568088Z"
+  },
+  {
+    "id": 7,
+    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/cables/7/",
+    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/cables/7/",
+    "display": "#7",
+    "type": "cat6",
+    "a_terminations": [
+      {
+        "object_id": 15,
+        "object_type": "dcim.interface"
+      }
+    ],
+    "b_terminations": [
+      {
+        "object_id": 2,
+        "object_type": "dcim.frontport"
+      }
+    ],
+    "status": "connected",
+    "tenant": 5,
+    "label": "",
+    "color": "ce42f5",
+    "length": 0.5,
+    "length_unit": "m",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-12-22T13:14:30.280447Z",
+    "last_updated": "2023-07-27T10:26:46.634429Z"
+  },
+  {
+    "id": 8,
+    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/cables/8/",
+    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/cables/8/",
+    "display": "#8",
+    "type": "cat6",
+    "a_terminations": [
+      {
+        "object_id": 16,
+        "object_type": "dcim.interface"
+      }
+    ],
+    "b_terminations": [
+      {
+        "object_id": 3,
+        "object_type": "dcim.frontport"
+      }
+    ],
+    "status": "connected",
+    "tenant": 5,
+    "label": "",
+    "color": "ce42f5",
+    "length": 0.5,
+    "length_unit": "m",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-12-22T13:14:30.407836Z",
+    "last_updated": "2023-07-27T10:26:46.696589Z"
+  },
+  {
+    "id": 9,
+    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/cables/9/",
+    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/cables/9/",
+    "display": "#9",
+    "type": "cat6",
+    "a_terminations": [
+      {
+        "object_id": 17,
+        "object_type": "dcim.interface"
+      }
+    ],
+    "b_terminations": [
+      {
+        "object_id": 4,
+        "object_type": "dcim.frontport"
+      }
+    ],
+    "status": "connected",
+    "tenant": 5,
+    "label": "",
+    "color": "ce42f5",
+    "length": 0.5,
+    "length_unit": "m",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-12-22T13:14:30.530100Z",
+    "last_updated": "2023-07-27T10:26:46.759846Z"
+  },
+  {
+    "id": 10,
+    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/cables/10/",
+    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/cables/10/",
+    "display": "#10",
+    "type": "cat6",
+    "a_terminations": [
+      {
+        "object_id": 18,
+        "object_type": "dcim.interface"
+      }
+    ],
+    "b_terminations": [
+      {
+        "object_id": 5,
+        "object_type": "dcim.frontport"
+      }
+    ],
+    "status": "connected",
+    "tenant": 5,
+    "label": "",
+    "color": "ce42f5",
+    "length": 0.5,
+    "length_unit": "m",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-12-22T13:14:30.673260Z",
+    "last_updated": "2023-07-27T10:26:46.822840Z"
+  },
+  {
+    "id": 11,
+    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/cables/11/",
+    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/cables/11/",
+    "display": "#11",
+    "type": "cat6",
+    "a_terminations": [
+      {
+        "object_id": 19,
+        "object_type": "dcim.interface"
+      }
+    ],
+    "b_terminations": [
+      {
+        "object_id": 6,
+        "object_type": "dcim.frontport"
+      }
+    ],
+    "status": "connected",
+    "tenant": 5,
+    "label": "",
+    "color": "ce42f5",
+    "length": 0.5,
+    "length_unit": "m",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-12-22T13:14:30.807787Z",
+    "last_updated": "2023-07-27T10:26:46.888863Z"
+  },
+  {
+    "id": 12,
+    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/cables/12/",
+    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/cables/12/",
+    "display": "#12",
+    "type": "cat6",
+    "a_terminations": [
+      {
+        "object_id": 20,
+        "object_type": "dcim.interface"
+      }
+    ],
+    "b_terminations": [
+      {
+        "object_id": 7,
+        "object_type": "dcim.frontport"
+      }
+    ],
+    "status": "connected",
+    "tenant": 5,
+    "label": "",
+    "color": "ce42f5",
+    "length": 0.5,
+    "length_unit": "m",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-12-22T13:14:30.972531Z",
+    "last_updated": "2023-07-27T10:26:46.950382Z"
+  },
+  {
+    "id": 13,
+    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/cables/13/",
+    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/cables/13/",
+    "display": "#13",
+    "type": "cat6",
+    "a_terminations": [
+      {
+        "object_id": 21,
+        "object_type": "dcim.interface"
+      }
+    ],
+    "b_terminations": [
+      {
+        "object_id": 8,
+        "object_type": "dcim.frontport"
+      }
+    ],
+    "status": "connected",
+    "tenant": 5,
+    "label": "",
+    "color": "ce42f5",
+    "length": 0.5,
+    "length_unit": "m",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-12-22T13:14:31.120250Z",
+    "last_updated": "2023-07-27T10:26:47.040231Z"
+  },
+  {
+    "id": 14,
+    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/cables/14/",
+    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/cables/14/",
+    "display": "#14",
+    "type": "cat6",
+    "a_terminations": [
+      {
+        "object_id": 22,
+        "object_type": "dcim.interface"
+      }
+    ],
+    "b_terminations": [
+      {
+        "object_id": 9,
+        "object_type": "dcim.frontport"
+      }
+    ],
+    "status": "connected",
+    "tenant": 5,
+    "label": "",
+    "color": "ce42f5",
+    "length": 0.5,
+    "length_unit": "m",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-12-22T13:14:31.264743Z",
+    "last_updated": "2023-07-27T10:26:47.120344Z"
+  },
+  {
+    "id": 15,
+    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/cables/15/",
+    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/cables/15/",
+    "display": "#15",
+    "type": "cat6",
+    "a_terminations": [
+      {
+        "object_id": 23,
+        "object_type": "dcim.interface"
+      }
+    ],
+    "b_terminations": [
+      {
+        "object_id": 10,
+        "object_type": "dcim.frontport"
+      }
+    ],
+    "status": "connected",
+    "tenant": 5,
+    "label": "",
+    "color": "ce42f5",
+    "length": 0.5,
+    "length_unit": "m",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-12-22T13:14:31.405491Z",
+    "last_updated": "2023-07-27T10:26:47.186706Z"
+  },
+  {
+    "id": 16,
+    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/cables/16/",
+    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/cables/16/",
+    "display": "#16",
+    "type": "cat6",
+    "a_terminations": [
+      {
+        "object_id": 24,
+        "object_type": "dcim.interface"
+      }
+    ],
+    "b_terminations": [
+      {
+        "object_id": 11,
+        "object_type": "dcim.frontport"
+      }
+    ],
+    "status": "connected",
+    "tenant": 5,
+    "label": "",
+    "color": "ce42f5",
+    "length": 0.5,
+    "length_unit": "m",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-12-22T13:14:31.533071Z",
+    "last_updated": "2023-07-27T10:26:47.250597Z"
+  },
+  {
+    "id": 17,
+    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/cables/17/",
+    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/cables/17/",
+    "display": "#17",
+    "type": "cat6",
+    "a_terminations": [
+      {
+        "object_id": 25,
+        "object_type": "dcim.interface"
+      }
+    ],
+    "b_terminations": [
+      {
+        "object_id": 12,
+        "object_type": "dcim.frontport"
+      }
+    ],
+    "status": "connected",
+    "tenant": 5,
+    "label": "",
+    "color": "ce42f5",
+    "length": 0.5,
+    "length_unit": "m",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-12-22T13:14:31.666038Z",
+    "last_updated": "2023-07-27T10:26:47.344352Z"
+  },
+  {
+    "id": 18,
+    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/cables/18/",
+    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/cables/18/",
+    "display": "#18",
+    "type": "cat6",
+    "a_terminations": [
+      {
+        "object_id": 26,
+        "object_type": "dcim.interface"
+      }
+    ],
+    "b_terminations": [
+      {
+        "object_id": 13,
+        "object_type": "dcim.frontport"
+      }
+    ],
+    "status": "connected",
+    "tenant": 5,
+    "label": "",
+    "color": "ce42f5",
+    "length": 0.5,
+    "length_unit": "m",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-12-22T13:14:31.808592Z",
+    "last_updated": "2023-07-27T10:26:47.406261Z"
+  },
+  {
+    "id": 19,
+    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/cables/19/",
+    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/cables/19/",
+    "display": "#19",
+    "type": "cat6",
+    "a_terminations": [
+      {
+        "object_id": 27,
+        "object_type": "dcim.interface"
+      }
+    ],
+    "b_terminations": [
+      {
+        "object_id": 14,
+        "object_type": "dcim.frontport"
+      }
+    ],
+    "status": "connected",
+    "tenant": 5,
+    "label": "",
+    "color": "ce42f5",
+    "length": 0.5,
+    "length_unit": "m",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-12-22T13:14:31.949954Z",
+    "last_updated": "2023-07-27T10:26:47.470342Z"
+  },
+  {
+    "id": 20,
+    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/cables/20/",
+    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/cables/20/",
+    "display": "#20",
+    "type": "cat6",
+    "a_terminations": [
+      {
+        "object_id": 28,
+        "object_type": "dcim.interface"
+      }
+    ],
+    "b_terminations": [
+      {
+        "object_id": 15,
+        "object_type": "dcim.frontport"
+      }
+    ],
+    "status": "connected",
+    "tenant": 5,
+    "label": "",
+    "color": "ce42f5",
+    "length": 0.5,
+    "length_unit": "m",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-12-22T13:14:32.087588Z",
+    "last_updated": "2023-07-27T10:26:47.535889Z"
+  },
+  {
+    "id": 21,
+    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/cables/21/",
+    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/cables/21/",
+    "display": "#21",
+    "type": "cat6",
+    "a_terminations": [
+      {
+        "object_id": 29,
+        "object_type": "dcim.interface"
+      }
+    ],
+    "b_terminations": [
+      {
+        "object_id": 16,
+        "object_type": "dcim.frontport"
+      }
+    ],
+    "status": "connected",
+    "tenant": 5,
+    "label": "",
+    "color": "ce42f5",
+    "length": 0.5,
+    "length_unit": "m",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-12-22T13:14:32.216918Z",
+    "last_updated": "2023-07-27T10:26:47.600879Z"
+  },
+  {
+    "id": 22,
+    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/cables/22/",
+    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/cables/22/",
+    "display": "#22",
+    "type": "cat6",
+    "a_terminations": [
+      {
+        "object_id": 30,
+        "object_type": "dcim.interface"
+      }
+    ],
+    "b_terminations": [
+      {
+        "object_id": 17,
+        "object_type": "dcim.frontport"
+      }
+    ],
+    "status": "connected",
+    "tenant": 5,
+    "label": "",
+    "color": "ce42f5",
+    "length": 0.5,
+    "length_unit": "m",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-12-22T13:14:32.340053Z",
+    "last_updated": "2023-07-27T10:26:47.663762Z"
+  },
+  {
+    "id": 23,
+    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/cables/23/",
+    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/cables/23/",
+    "display": "#23",
+    "type": "cat6",
+    "a_terminations": [
+      {
+        "object_id": 31,
+        "object_type": "dcim.interface"
+      }
+    ],
+    "b_terminations": [
+      {
+        "object_id": 18,
+        "object_type": "dcim.frontport"
+      }
+    ],
+    "status": "connected",
+    "tenant": 5,
+    "label": "",
+    "color": "ce42f5",
+    "length": 0.5,
+    "length_unit": "m",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-12-22T13:14:32.478130Z",
+    "last_updated": "2023-07-27T10:26:47.725665Z"
+  },
+  {
+    "id": 24,
+    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/cables/24/",
+    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/cables/24/",
+    "display": "#24",
+    "type": "cat6",
+    "a_terminations": [
+      {
+        "object_id": 73,
+        "object_type": "dcim.interface"
+      }
+    ],
+    "b_terminations": [
+      {
+        "object_id": 48,
+        "object_type": "dcim.interface"
+      }
+    ],
+    "status": "connected",
+    "tenant": 5,
+    "label": "",
+    "color": "4287f5",
+    "length": 2.0,
+    "length_unit": "m",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-12-22T13:49:10.316041Z",
+    "last_updated": "2023-07-27T10:26:47.786162Z"
+  },
+  {
+    "id": 25,
+    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/cables/25/",
+    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/cables/25/",
+    "display": "#25",
+    "type": "cat6",
+    "a_terminations": [
+      {
+        "object_id": 69,
+        "object_type": "dcim.interface"
+      }
+    ],
+    "b_terminations": [
+      {
+        "object_id": 5,
+        "object_type": "dcim.interface"
+      }
+    ],
+    "status": "connected",
+    "tenant": 5,
+    "label": "",
+    "color": "00ff00",
+    "length": 2.0,
+    "length_unit": "m",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-12-22T13:49:10.427640Z",
+    "last_updated": "2023-07-27T10:26:47.866326Z"
+  },
+  {
+    "id": 26,
+    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/cables/26/",
+    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/cables/26/",
+    "display": "#26",
+    "type": "cat6",
+    "a_terminations": [
+      {
+        "object_id": 70,
+        "object_type": "dcim.interface"
+      }
+    ],
+    "b_terminations": [
+      {
+        "object_id": 6,
+        "object_type": "dcim.interface"
+      }
+    ],
+    "status": "connected",
+    "tenant": 5,
+    "label": "",
+    "color": "00ff00",
+    "length": 2.0,
+    "length_unit": "m",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-12-22T13:49:10.525432Z",
+    "last_updated": "2023-07-27T10:26:47.945072Z"
+  },
+  {
+    "id": 27,
+    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/cables/27/",
+    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/cables/27/",
+    "display": "#27",
+    "type": "cat6",
+    "a_terminations": [
+      {
+        "object_id": 78,
+        "object_type": "dcim.interface"
+      }
+    ],
+    "b_terminations": [
+      {
+        "object_id": 49,
+        "object_type": "dcim.interface"
+      }
+    ],
+    "status": "connected",
+    "tenant": 5,
+    "label": "",
+    "color": "4287f5",
+    "length": 2.0,
+    "length_unit": "m",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-12-22T13:49:10.622486Z",
+    "last_updated": "2023-07-27T10:26:48.076784Z"
+  },
+  {
+    "id": 28,
+    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/cables/28/",
+    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/cables/28/",
+    "display": "#28",
+    "type": "cat6",
+    "a_terminations": [
+      {
+        "object_id": 74,
+        "object_type": "dcim.interface"
+      }
+    ],
+    "b_terminations": [
+      {
+        "object_id": 7,
+        "object_type": "dcim.interface"
+      }
+    ],
+    "status": "connected",
+    "tenant": 5,
+    "label": "",
+    "color": "00ff00",
+    "length": 2.0,
+    "length_unit": "m",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-12-22T13:49:10.718658Z",
+    "last_updated": "2023-07-27T10:26:48.166396Z"
+  },
+  {
+    "id": 29,
+    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/cables/29/",
+    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/cables/29/",
+    "display": "#29",
+    "type": "cat6",
+    "a_terminations": [
+      {
+        "object_id": 75,
+        "object_type": "dcim.interface"
+      }
+    ],
+    "b_terminations": [
+      {
+        "object_id": 8,
+        "object_type": "dcim.interface"
+      }
+    ],
+    "status": "connected",
+    "tenant": 5,
+    "label": "",
+    "color": "00ff00",
+    "length": 2.0,
+    "length_unit": "m",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-12-22T13:49:11.031371Z",
+    "last_updated": "2023-07-27T10:26:48.249986Z"
+  },
+  {
+    "id": 30,
+    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/cables/30/",
+    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/cables/30/",
+    "display": "#30",
+    "type": "power",
+    "a_terminations": [
+      {
+        "object_id": 2,
+        "object_type": "dcim.powerport"
+      }
+    ],
+    "b_terminations": [
+      {
+        "object_id": 1,
+        "object_type": "dcim.poweroutlet"
+      }
+    ],
+    "status": "connected",
+    "tenant": 5,
+    "label": "",
+    "color": "",
+    "length": null,
+    "length_unit": null,
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-12-22T15:09:24.578601Z",
+    "last_updated": "2023-07-27T10:26:48.337537Z"
+  },
+  {
+    "id": 31,
+    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/cables/31/",
+    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/cables/31/",
+    "display": "#31",
+    "type": "power",
+    "a_terminations": [
+      {
+        "object_id": 3,
+        "object_type": "dcim.powerport"
+      }
+    ],
+    "b_terminations": [
+      {
+        "object_id": 9,
+        "object_type": "dcim.poweroutlet"
+      }
+    ],
+    "status": "connected",
+    "tenant": 5,
+    "label": "",
+    "color": "",
+    "length": null,
+    "length_unit": null,
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-12-22T15:09:24.717643Z",
+    "last_updated": "2023-07-27T10:26:48.365305Z"
+  },
+  {
+    "id": 32,
+    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/cables/32/",
+    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/cables/32/",
+    "display": "#32",
+    "type": "power",
+    "a_terminations": [
+      {
+        "object_id": 4,
+        "object_type": "dcim.powerport"
+      }
+    ],
+    "b_terminations": [
+      {
+        "object_id": 2,
+        "object_type": "dcim.poweroutlet"
+      }
+    ],
+    "status": "connected",
+    "tenant": 5,
+    "label": "",
+    "color": "",
+    "length": null,
+    "length_unit": null,
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-12-22T15:09:24.852724Z",
+    "last_updated": "2024-06-22T16:10:19.772513Z"
+  },
+  {
+    "id": 33,
+    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/cables/33/",
+    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/cables/33/",
+    "display": "#33",
+    "type": "power",
+    "a_terminations": [
+      {
+        "object_id": 1,
+        "object_type": "dcim.powerport"
+      }
+    ],
+    "b_terminations": [
+      {
+        "object_id": 10,
+        "object_type": "dcim.poweroutlet"
+      }
+    ],
+    "status": "connected",
+    "tenant": 5,
+    "label": "",
+    "color": "",
+    "length": null,
+    "length_unit": null,
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-12-22T15:09:24.973429Z",
+    "last_updated": "2023-07-27T10:26:48.421631Z"
+  },
+  {
+    "id": 34,
+    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/cables/34/",
+    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/cables/34/",
+    "display": "#34",
+    "type": "power",
+    "a_terminations": [
+      {
+        "object_id": 5,
+        "object_type": "dcim.powerport"
+      }
+    ],
+    "b_terminations": [
+      {
+        "object_id": 3,
+        "object_type": "dcim.poweroutlet"
+      }
+    ],
+    "status": "connected",
+    "tenant": 5,
+    "label": "",
+    "color": "",
+    "length": null,
+    "length_unit": null,
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-12-22T15:09:25.088307Z",
+    "last_updated": "2023-07-27T10:26:48.449211Z"
+  },
+  {
+    "id": 35,
+    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/cables/35/",
+    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/cables/35/",
+    "display": "#35",
+    "type": "power",
+    "a_terminations": [
+      {
+        "object_id": 6,
+        "object_type": "dcim.powerport"
+      }
+    ],
+    "b_terminations": [
+      {
+        "object_id": 11,
+        "object_type": "dcim.poweroutlet"
+      }
+    ],
+    "status": "connected",
+    "tenant": 5,
+    "label": "",
+    "color": "",
+    "length": null,
+    "length_unit": null,
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-12-22T15:09:25.199242Z",
+    "last_updated": "2023-07-27T10:26:48.479638Z"
+  },
+  {
+    "id": 36,
+    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/cables/36/",
+    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/cables/36/",
+    "display": "#36",
+    "type": "power",
+    "a_terminations": [
+      {
+        "object_id": 7,
+        "object_type": "dcim.powerport"
+      }
+    ],
+    "b_terminations": [
+      {
+        "object_id": 4,
+        "object_type": "dcim.poweroutlet"
+      }
+    ],
+    "status": "connected",
+    "tenant": 5,
+    "label": "",
+    "color": "",
+    "length": null,
+    "length_unit": null,
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-12-22T15:09:25.309180Z",
+    "last_updated": "2023-07-27T10:26:48.510126Z"
+  },
+  {
+    "id": 37,
+    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/cables/37/",
+    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/cables/37/",
+    "display": "#37",
+    "type": "power",
+    "a_terminations": [
+      {
+        "object_id": 8,
+        "object_type": "dcim.powerport"
+      }
+    ],
+    "b_terminations": [
+      {
+        "object_id": 12,
+        "object_type": "dcim.poweroutlet"
+      }
+    ],
+    "status": "connected",
+    "tenant": 5,
+    "label": "",
+    "color": "",
+    "length": null,
+    "length_unit": null,
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-12-22T15:09:25.411980Z",
+    "last_updated": "2023-07-27T10:26:48.536922Z"
+  },
+  {
+    "id": 38,
+    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/cables/38/",
+    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/cables/38/",
+    "display": "#38",
+    "type": "",
+    "a_terminations": [
+      {
+        "object_id": 1,
+        "object_type": "circuits.circuittermination"
+      }
+    ],
+    "b_terminations": [
+      {
+        "object_id": 2,
+        "object_type": "dcim.interface"
+      }
+    ],
+    "status": "connected",
+    "tenant": null,
+    "label": "",
+    "color": "",
+    "length": null,
+    "length_unit": null,
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2023-07-26T12:39:09.335776Z",
+    "last_updated": "2023-07-27T10:26:48.563398Z"
+  },
+  {
+    "id": 71,
+    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/cables/71/",
+    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/cables/71/",
+    "display": "#71",
+    "type": "cat6",
+    "a_terminations": [
+      {
+        "object_id": 46,
+        "object_type": "dcim.interface"
+      }
+    ],
+    "b_terminations": [
+      {
+        "object_id": 58,
+        "object_type": "dcim.interface"
+      }
+    ],
+    "status": "connected",
+    "tenant": null,
+    "label": "",
+    "color": "ffeb3b",
+    "length": null,
+    "length_unit": null,
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2023-07-31T10:45:59.066500Z",
+    "last_updated": "2023-07-31T10:45:59.066522Z"
+  },
+  {
+    "id": 72,
+    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/cables/72/",
+    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/cables/72/",
+    "display": "#72",
+    "type": "cat6",
+    "a_terminations": [
+      {
+        "object_id": 47,
+        "object_type": "dcim.interface"
+      }
+    ],
+    "b_terminations": [
+      {
+        "object_id": 61,
+        "object_type": "dcim.interface"
+      }
+    ],
+    "status": "connected",
+    "tenant": null,
+    "label": "",
+    "color": "ffeb3b",
+    "length": null,
+    "length_unit": null,
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2023-07-31T10:47:02.911357Z",
+    "last_updated": "2023-07-31T10:47:02.911379Z"
+  },
+  {
+    "id": 73,
+    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/cables/73/",
+    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/cables/73/",
+    "display": "#73",
+    "type": "",
+    "a_terminations": [
+      {
+        "object_id": 9,
+        "object_type": "dcim.powerport"
+      }
+    ],
+    "b_terminations": [
+      {
+        "object_id": 1,
+        "object_type": "dcim.powerfeed"
+      }
+    ],
+    "status": "connected",
+    "tenant": null,
+    "label": "",
+    "color": "",
+    "length": null,
+    "length_unit": null,
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2023-07-31T10:59:43.348022Z",
+    "last_updated": "2023-07-31T10:59:43.348045Z"
+  },
+  {
+    "id": 74,
+    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/cables/74/",
+    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/cables/74/",
+    "display": "#74",
+    "type": "",
+    "a_terminations": [
+      {
+        "object_id": 10,
+        "object_type": "dcim.powerport"
+      }
+    ],
+    "b_terminations": [
+      {
+        "object_id": 2,
+        "object_type": "dcim.powerfeed"
+      }
+    ],
+    "status": "connected",
+    "tenant": null,
+    "label": "",
+    "color": "",
+    "length": null,
+    "length_unit": null,
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2023-07-31T11:00:12.487830Z",
+    "last_updated": "2023-07-31T11:00:12.487851Z"
+  }
+]

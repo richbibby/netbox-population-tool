@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/power-feeds/1/",
+    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/power-feeds/1/",
+    "display": "NLAMS01-PWR-FEED-1",
+    "power_panel": 1,
+    "rack": 1,
+    "name": "NLAMS01-PWR-FEED-1",
+    "status": "active",
+    "type": "primary",
+    "supply": "ac",
+    "phase": "three-phase",
+    "voltage": 200,
+    "amperage": 16,
+    "max_utilization": 80,
+    "mark_connected": false,
+    "cable": 73,
+    "cable_end": "B",
+    "link_peers": [
+      9
+    ],
+    "link_peers_type": "dcim.powerport",
+    "connected_endpoints": [
+      9
+    ],
+    "connected_endpoints_type": "dcim.powerport",
+    "connected_endpoints_reachable": true,
+    "description": "",
+    "tenant": null,
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2023-07-31T10:54:21.134173Z",
+    "last_updated": "2024-06-22T16:13:55.106545Z",
+    "_occupied": true
+  },
+  {
+    "id": 2,
+    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/power-feeds/2/",
+    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/power-feeds/2/",
+    "display": "NLAMS01-PWR-FEED-2",
+    "power_panel": 2,
+    "rack": 1,
+    "name": "NLAMS01-PWR-FEED-2",
+    "status": "active",
+    "type": "redundant",
+    "supply": "ac",
+    "phase": "three-phase",
+    "voltage": 200,
+    "amperage": 16,
+    "max_utilization": 80,
+    "mark_connected": false,
+    "cable": 74,
+    "cable_end": "B",
+    "link_peers": [
+      10
+    ],
+    "link_peers_type": "dcim.powerport",
+    "connected_endpoints": [
+      10
+    ],
+    "connected_endpoints_type": "dcim.powerport",
+    "connected_endpoints_reachable": true,
+    "description": "",
+    "tenant": null,
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2023-07-31T10:54:54.112287Z",
+    "last_updated": "2023-07-31T10:58:23.583558Z",
+    "_occupied": true
+  }
+]

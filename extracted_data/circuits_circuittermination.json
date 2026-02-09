@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/circuits/circuit-terminations/1/",
+    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/circuits/circuit-terminations/1/",
+    "display": "KPNCir12345: Termination Z",
+    "circuit": 1,
+    "term_side": "Z",
+    "site": 1,
+    "provider_network": null,
+    "port_speed": 200000,
+    "upstream_speed": null,
+    "xconnect_id": "",
+    "pp_info": "",
+    "description": "",
+    "mark_connected": false,
+    "cable": 38,
+    "cable_end": "A",
+    "link_peers": [
+      2
+    ],
+    "link_peers_type": "dcim.interface",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-12-22T15:10:16.157582Z",
+    "last_updated": "2022-12-22T15:10:16.157611Z",
+    "_occupied": true
+  }
+]

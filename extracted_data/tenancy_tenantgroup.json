@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/tenancy/tenant-groups/1/",
+    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/tenancy/tenant-groups/1/",
+    "display": "Divisions",
+    "name": "Divisions",
+    "slug": "divisions",
+    "parent": null,
+    "description": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-12-22T11:26:36.900509Z",
+    "last_updated": "2023-07-31T10:27:00.736521Z",
+    "tenant_count": 5,
+    "_depth": 0
+  }
+]

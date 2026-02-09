@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/virtualization/clusters/1/",
+    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/virtualization/clusters/1/",
+    "display": "NLAMS01-VSPHERE-1",
+    "name": "NLAMS01-VSPHERE-1",
+    "type": 1,
+    "group": null,
+    "status": "active",
+    "tenant": null,
+    "site": 1,
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-12-22T14:00:59.605806Z",
+    "last_updated": "2023-08-15T15:05:04.451151Z",
+    "device_count": 2,
+    "virtualmachine_count": 2
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "id": 83,
+    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/ipam/vlan-groups/83/",
+    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/ipam/vlan-groups/83/",
+    "display": "AUSYD01_VLANS",
+    "name": "AUSYD01_VLANS",
+    "slug": "ausyd01_vlans",
+    "scope_type": "dcim.site",
+    "scope_id": 5,
+    "scope": 5,
+    "vid_ranges": [
+      [
+        1,
+        4094
+      ]
+    ],
+    "description": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2024-10-15T10:07:50.686801Z",
+    "last_updated": "2024-10-15T10:07:50.686819Z",
+    "vlan_count": 0,
+    "utilization": "0.0"
+  },
+  {
+    "id": 80,
+    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/ipam/vlan-groups/80/",
+    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/ipam/vlan-groups/80/",
+    "display": "NLAMS01_VLANS",
+    "name": "NLAMS01_VLANS",
+    "slug": "nlams01_vlans",
+    "scope_type": "dcim.site",
+    "scope_id": 1,
+    "scope": 1,
+    "vid_ranges": [
+      [
+        1,
+        100
+      ],
+      [
+        200,
+        300
+      ]
+    ],
+    "description": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2024-10-10T15:39:47.172527Z",
+    "last_updated": "2024-10-15T10:07:32.274265Z",
+    "vlan_count": 6,
+    "utilization": "2.99"
+  }
+]

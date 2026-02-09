@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/circuits/providers/1/",
+    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/circuits/providers/1/",
+    "display": "KPN",
+    "name": "KPN",
+    "slug": "kpn",
+    "accounts": [
+      1
+    ],
+    "description": "",
+    "comments": "",
+    "asns": [],
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-12-22T15:09:54.236563Z",
+    "last_updated": "2023-08-07T10:10:28.080906Z",
+    "circuit_count": 1
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/dcim/module-types/1/",
+    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/dcim/module-types/1/",
+    "display": "AP7921B",
+    "manufacturer": 7,
+    "model": "AP7921B",
+    "part_number": "AP7921B",
+    "airflow": null,
+    "weight": null,
+    "weight_unit": null,
+    "description": "",
+    "comments": "Rack PDU, Switched, 1U, 16A, 208/230V, (8)C13",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-12-22T15:06:32.632800Z",
+    "last_updated": "2022-12-22T15:06:32.632829Z"
+  }
+]

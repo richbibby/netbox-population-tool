@@ -1,0 +1,53 @@
+[
+  {
+    "id": 55,
+    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/ipam/aggregates/55/",
+    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/ipam/aggregates/55/",
+    "display": "10.0.0.0/8",
+    "family": 4,
+    "prefix": "10.0.0.0/8",
+    "rir": 47,
+    "tenant": null,
+    "date_added": null,
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2024-10-10T15:31:46.634000Z",
+    "last_updated": null
+  },
+  {
+    "id": 56,
+    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/ipam/aggregates/56/",
+    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/ipam/aggregates/56/",
+    "display": "172.16.0.0/12",
+    "family": 4,
+    "prefix": "172.16.0.0/12",
+    "rir": 47,
+    "tenant": null,
+    "date_added": null,
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2024-10-10T15:31:54.487000Z",
+    "last_updated": null
+  },
+  {
+    "id": 57,
+    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/ipam/aggregates/57/",
+    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/ipam/aggregates/57/",
+    "display": "192.168.0.0/16",
+    "family": 4,
+    "prefix": "192.168.0.0/16",
+    "rir": 47,
+    "tenant": null,
+    "date_added": null,
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2024-10-10T15:32:06.515000Z",
+    "last_updated": null
+  }
+]

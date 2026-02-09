@@ -1,0 +1,63 @@
+[
+  {
+    "id": 2,
+    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/ipam/services/2/",
+    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/ipam/services/2/",
+    "display": "SSH (TCP/22)",
+    "device": null,
+    "virtual_machine": 1,
+    "name": "SSH",
+    "protocol": "tcp",
+    "ports": [
+      22
+    ],
+    "ipaddresses": [],
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-12-22T15:00:44.870432Z",
+    "last_updated": "2022-12-22T15:00:44.870455Z"
+  },
+  {
+    "id": 3,
+    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/ipam/services/3/",
+    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/ipam/services/3/",
+    "display": "windows file and print (TCP/139, 445)",
+    "device": null,
+    "virtual_machine": 2,
+    "name": "windows file and print",
+    "protocol": "tcp",
+    "ports": [
+      139,
+      445
+    ],
+    "ipaddresses": [],
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-12-22T15:00:56.907290Z",
+    "last_updated": "2022-12-22T15:00:56.907318Z"
+  },
+  {
+    "id": 1,
+    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/ipam/services/1/",
+    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/ipam/services/1/",
+    "display": "PostgreSQL (TCP/5432)",
+    "device": null,
+    "virtual_machine": 1,
+    "name": "PostgreSQL",
+    "protocol": "tcp",
+    "ports": [
+      5432
+    ],
+    "ipaddresses": [],
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-12-22T15:00:35.770042Z",
+    "last_updated": "2022-12-22T15:00:35.770071Z"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "id": 47,
+    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/ipam/rirs/47/",
+    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/ipam/rirs/47/",
+    "display": "RFC1918",
+    "name": "RFC1918",
+    "slug": "rfc1918",
+    "is_private": true,
+    "description": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2024-10-10T15:31:35.191000Z",
+    "last_updated": null,
+    "aggregate_count": 3
+  }
+]

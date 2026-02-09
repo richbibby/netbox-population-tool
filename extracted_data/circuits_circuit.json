@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/circuits/circuits/1/",
+    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/circuits/circuits/1/",
+    "display": "KPNCir12345",
+    "cid": "KPNCir12345",
+    "provider": 1,
+    "provider_account": 1,
+    "type": 1,
+    "status": "active",
+    "tenant": 5,
+    "install_date": null,
+    "termination_date": null,
+    "commit_rate": 200000,
+    "description": "",
+    "termination_a": null,
+    "termination_z": 1,
+    "comments": "",
+    "tags": [],
+    "custom_fields": {
+      "test": null,
+      "test2": null
+    },
+    "created": "2022-12-22T15:10:08.770141Z",
+    "last_updated": "2023-08-08T10:55:58.101855Z",
+    "assignments": []
+  }
+]

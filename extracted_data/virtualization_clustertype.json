@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "url": "https://spring-paper-9469.cloud.netboxapp.com/api/virtualization/cluster-types/1/",
+    "display_url": "https://spring-paper-9469.cloud.netboxapp.com/virtualization/cluster-types/1/",
+    "display": "VMware vSphere",
+    "name": "VMware vSphere",
+    "slug": "vmware-vsphere",
+    "description": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-12-22T13:59:55.213932Z",
+    "last_updated": "2022-12-22T13:59:55.213955Z",
+    "cluster_count": 1
+  }
+]
